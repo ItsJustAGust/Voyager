@@ -1,0 +1,39 @@
+.tituloInput{
+    padding-top: 100px;
+}
+
+.tituloInput input{
+    height: 20px;
+    width: 200px;
+}
+
+.descricaoInput input{
+    height: 20px;
+    width: 200px;
+}
+
+.statusInput select{
+    height: 40px;
+    width: 200px;
+}
+
+.nomeInput{
+    padding-left: 500px;
+}
+
+.type{
+    padding-left: 500px;
+}
+
+.listaTipos{
+    padding-left: 500px;
+}
+
+.obrigation{
+    padding-left: 500px;
+    padding-top: 30px;
+}
+
+.salvaCampo{
+    padding-left: 500px;
+}
